@@ -1,0 +1,82 @@
+.x-form-select-trigger {
+  background-image: url('../icons/trigger-select.png');
+}
+.x-form-select-clear-trigger {
+  background-image: url('../icons/trigger-clear.png');
+}
+.x-panel-hand-cursor .x-panel-header-text-container {
+  cursor: pointer;
+  text-decoration: none;
+}
+.x-panel-hand-cursor .x-panel-header-text-container .x-panel-header-text {
+  cursor: pointer;
+  color: #08C !important;
+}
+.x-panel-hand-cursor .x-panel-header-text-container:hover {
+  text-decoration: underline;
+}
+.x-panel-hand-cursor .x-accordion-hd {
+  background: transparent !important;
+  color: #08C !important;
+}
+.x-panel-hand-cursor .x-panel-header {
+  border-bottom: #66895F 2px solid !important;
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+.x-panel-cms .x-panel-header-text-container {
+  text-decoration: none;
+}
+.x-panel-cms .x-panel-header-text-container .x-panel-header-text {
+  color: #08C !important;
+}
+.x-panel-cms .x-panel-header {
+  border-bottom: #66895F 2px solid !important;
+  background: transparent !important;
+}
+.x-main-menu {
+  border: 1px solid #D4D4D4;
+}
+.x-main-menu .x-box-inner div .x-btn-pressed {
+  border: 0;
+  border-radius: 0;
+  background-image: none;
+  text-decoration: none;
+  background-color: #fff;
+  border-bottom: 2px #005596 solid;
+  -webkit-box-shadow: inset 0 3px 8px rgba(0, 0, 0, 0.125);
+  -moz-box-shadow: inset 0 3px 8px rgba(0, 0, 0, 0.125);
+  box-shadow: inset 0 3px 8px rgba(0, 0, 0, 0.125);
+}
+.x-main-menu .x-box-inner div .x-btn-pressed .x-btn-inner {
+  color: #555555;
+}
+.x-main-menu .x-box-inner div .x-btn-over {
+  border: 0;
+  border-radius: 0;
+  background-color: #eee;
+  background-image: none;
+  background: transparent;
+}
+.x-main-menu .x-box-inner div .x-btn-over .x-btn-inner {
+  color: #555555;
+}
+.header-background {
+  background-repeat: repeat-x;
+  background-image: url('../../Images/header-bg.png') !important;
+}
+.link {
+  color: #fff;
+  text-decoration: none;
+  cursor: default;
+  padding: 4px 5px;
+  text-align: center;
+}
+.link:hover {
+  cursor: pointer;
+}
+.link-spacer {
+  color: #EFFFEA;
+  padding: 4px 0 !important;
+  text-align: center;
+}
