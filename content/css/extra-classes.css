@@ -63,7 +63,7 @@
 }
 .header-background {
   background-repeat: repeat-x;
-  background-image: url('../../Images/header-bg.png') !important;
+  background-image: url('../../images/header-bg.png') !important;
 }
 .link {
   color: #fff;

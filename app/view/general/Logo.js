@@ -20,8 +20,7 @@ Ext.define('OdessaJs.view.general.Logo', {
         xtype: 'box',
         padding: '0',
         height: 53,
-        autoEl: {tag: 'img', src: 'Images/mcd-logo.png'}
-    }, {
+        autoEl: {tag: 'img', src: 'images/mcd-logo.png'} }, {
         xtype: 'tbfill'
     }, {
         xtype: 'panel',
