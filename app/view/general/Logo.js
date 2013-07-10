@@ -42,6 +42,16 @@ Ext.define('OdessaJs.view.general.Logo', {
             },
             items: [{
                 xtype: 'box',
+                width: 160,
+                style: 'text-align: left; color: #FCD116',
+                autoEl: {tag: 'a', href: 'https://github.com/Pencroff/ExampleExtJs', html: 'Fork me on GitHub', cls: 'link', target:'_blank'}
+            }, {
+                xtype: 'tbspacer',
+                cls: 'link-spacer',
+                width: 8,
+                border: false
+            }, {
+                xtype: 'box',
                 id: 'userProfileLink',
                 width: 160,
                 style: 'text-align: right;',
